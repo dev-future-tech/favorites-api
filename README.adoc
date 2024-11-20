@@ -2,6 +2,8 @@
 
 This project contains a web service that will accept HTTP GET requests at
 `http://localhost:8080/greeting`.
+
+It also includes an endpoint that will accept HTTP POST requests at
 `http://localhost:8080/favorites`.
 
 It will respond with a JSON representation of a greeting, as the following listing shows:
